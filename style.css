@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-image: url("background.jpg") ;
+    background-size: 800px 700px;
+}
+.btndel {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    width: 70px;
+    cursor: pointer;
+    font-size: 11px;
+    height: 25px;
+    margin: 5px;
+    margin-left: 50px;
+
+}
+
+.btnedit{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    width: 70px;
+    cursor: pointer;
+    font-size: 11px;
+    height: 25px;
+    margin: 5px;
+}
+.btn2{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    width: 70px;
+    cursor: pointer;
+    font-size: 11px;
+    height: 25px;
+    margin: 5px;
+
+}
+.input{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    height: 25px;
+    padding-left: 2px;
+    text-align: center;
+    font-size: 11px;
+    margin: 5px;
+
+}
+
+.list{
+    list-style-type: none;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+
+
